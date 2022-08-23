@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-namespace P_Jogo_da_Velha
+namespace ProjTicTacToe
 {
     internal class Program
     {
